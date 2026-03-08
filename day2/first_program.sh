@@ -18,3 +18,7 @@ echo "what is your name"
 read name1
 
 echo "oh! i am $name1"
+
+read -p  "$name where are u from:  " place
+
+echo "$name1 yep i am from $place"
